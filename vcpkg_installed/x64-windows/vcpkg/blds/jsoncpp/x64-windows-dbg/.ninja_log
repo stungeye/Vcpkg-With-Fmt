@@ -1,0 +1,7 @@
+# ninja log v5
+13	655	7362765439049507	src/lib_json/CMakeFiles/jsoncpp_lib.dir/json_writer.cpp.obj	75c6659c1be4739d
+5	662	7362765439108933	src/lib_json/CMakeFiles/jsoncpp_lib.dir/json_value.cpp.obj	976ff74ebba2683f
+2	669	7362765439185864	src/lib_json/CMakeFiles/jsoncpp_lib.dir/json_reader.cpp.obj	b04da52d4af5105d
+670	944	7362765441801213	bin/jsoncpp.dll	c6b64bd398e3b300
+670	944	7362765441801213	lib/jsoncpp.lib	c6b64bd398e3b300
+945	1114	0	CMakeFiles/install.util	e55118f5722c29b8
